@@ -1,0 +1,20 @@
+body {
+	background-image: url("BK B.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box {
+	width: 670px;
+	height: 900px;
+	margin-top: 780px;
+	margin-left: 16%;
+}
+.item {
+	
+	width: 317px;
+	height: 317px;
+}
+.pho {
+	margin-left: 168px;
+	margin-top: -43px;
+}
